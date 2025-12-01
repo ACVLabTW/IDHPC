@@ -1,0 +1,209 @@
+Running on device: cuda
+
+=== DATASET A ===
+-- Fold 1/5
+Epoch [1/100], Loss: 0.2426, LR: 0.001000
+New best @epoch 1: loss=0.2506, acc=0.8976, f1=0.7663, recall=0.7259, auc=0.9113, TP=3159 FP=904 TN=35128 FN=3466
+New best @epoch 2: loss=0.2482, acc=0.8980, f1=0.7691, recall=0.7297, auc=0.9106, TP=3216 FP=940 TN=35092 FN=3409
+Epoch [6/100], Loss: 0.2884, LR: 0.000531
+Epoch [11/100], Loss: 0.2399, LR: 0.000005
+Epoch [16/100], Loss: 0.1549, LR: 0.000000
+Epoch [21/100], Loss: 0.2324, LR: 0.000000
+Epoch [26/100], Loss: 0.2274, LR: 0.000000
+Epoch [31/100], Loss: 0.1419, LR: 0.000000
+Epoch [36/100], Loss: 0.1752, LR: 0.000000
+Epoch [41/100], Loss: 0.0894, LR: 0.000000
+Epoch [46/100], Loss: 0.1409, LR: 0.000000
+Epoch [51/100], Loss: 0.2604, LR: 0.000000
+Epoch [56/100], Loss: 0.1391, LR: 0.000000
+Epoch [61/100], Loss: 0.1348, LR: 0.000000
+Epoch [66/100], Loss: 0.1740, LR: 0.000000
+Epoch [71/100], Loss: 0.2612, LR: 0.000000
+Epoch [76/100], Loss: 0.1291, LR: 0.000000
+Epoch [81/100], Loss: 0.2131, LR: 0.000000
+Epoch [86/100], Loss: 0.1926, LR: 0.000000
+Epoch [91/100], Loss: 0.2378, LR: 0.000000
+Epoch [96/100], Loss: 0.1931, LR: 0.000000
+-- Fold 2/5
+Epoch [1/100], Loss: 0.2950, LR: 0.001000
+New best @epoch 1: loss=0.2357, acc=0.9020, f1=0.7833, recall=0.7464, auc=0.9218, TP=3449 FP=998 TN=35003 FN=3178
+Epoch [6/100], Loss: 0.1846, LR: 0.000531
+Epoch [11/100], Loss: 0.3403, LR: 0.000005
+Epoch [16/100], Loss: 0.2152, LR: 0.000000
+Epoch [21/100], Loss: 0.1444, LR: 0.000000
+Epoch [26/100], Loss: 0.2012, LR: 0.000000
+Epoch [31/100], Loss: 0.2759, LR: 0.000000
+Epoch [36/100], Loss: 0.1967, LR: 0.000000
+Epoch [41/100], Loss: 0.2110, LR: 0.000000
+Epoch [46/100], Loss: 0.2092, LR: 0.000000
+Epoch [51/100], Loss: 0.2799, LR: 0.000000
+Epoch [56/100], Loss: 0.1889, LR: 0.000000
+Epoch [61/100], Loss: 0.2228, LR: 0.000000
+Epoch [66/100], Loss: 0.2181, LR: 0.000000
+Epoch [71/100], Loss: 0.1420, LR: 0.000000
+Epoch [76/100], Loss: 0.1868, LR: 0.000000
+Epoch [81/100], Loss: 0.0847, LR: 0.000000
+Epoch [86/100], Loss: 0.1486, LR: 0.000000
+Epoch [91/100], Loss: 0.2223, LR: 0.000000
+Epoch [96/100], Loss: 0.2838, LR: 0.000000
+-- Fold 3/5
+Epoch [1/100], Loss: 0.1889, LR: 0.001000
+New best @epoch 1: loss=0.2488, acc=0.8994, f1=0.7896, recall=0.7661, auc=0.9119, TP=3764 FP=1476 TN=34493 FN=2803
+New best @epoch 2: loss=0.2454, acc=0.8992, f1=0.7771, recall=0.7424, auc=0.9122, TP=3385 FP=1106 TN=34863 FN=3182
+Epoch [6/100], Loss: 0.1847, LR: 0.000531
+Epoch [11/100], Loss: 0.1269, LR: 0.000005
+Epoch [16/100], Loss: 0.3382, LR: 0.000000
+Epoch [21/100], Loss: 0.1611, LR: 0.000000
+Epoch [26/100], Loss: 0.1438, LR: 0.000000
+Epoch [31/100], Loss: 0.2143, LR: 0.000000
+Epoch [36/100], Loss: 0.4178, LR: 0.000000
+Epoch [41/100], Loss: 0.2138, LR: 0.000000
+Epoch [46/100], Loss: 0.3284, LR: 0.000000
+Epoch [51/100], Loss: 0.2458, LR: 0.000000
+Epoch [56/100], Loss: 0.3025, LR: 0.000000
+Epoch [61/100], Loss: 0.3188, LR: 0.000000
+Epoch [66/100], Loss: 0.1729, LR: 0.000000
+Epoch [71/100], Loss: 0.2276, LR: 0.000000
+Epoch [76/100], Loss: 0.2891, LR: 0.000000
+Epoch [81/100], Loss: 0.1970, LR: 0.000000
+Epoch [86/100], Loss: 0.2336, LR: 0.000000
+Epoch [91/100], Loss: 0.1492, LR: 0.000000
+Epoch [96/100], Loss: 0.1545, LR: 0.000000
+-- Fold 4/5
+Epoch [1/100], Loss: 0.1749, LR: 0.001000
+New best @epoch 1: loss=0.2579, acc=0.8951, f1=0.7648, recall=0.7287, auc=0.9131, TP=3204 FP=1099 TN=34868 FN=3361
+New best @epoch 2: loss=0.2510, acc=0.8949, f1=0.7755, recall=0.7483, auc=0.9149, TP=3521 FP=1426 TN=34541 FN=3044
+New best @epoch 3: loss=0.2447, acc=0.8964, f1=0.7857, recall=0.7653, auc=0.9161, TP=3779 FP=1622 TN=34345 FN=2786
+Epoch [6/100], Loss: 0.2790, LR: 0.000531
+Epoch [11/100], Loss: 0.1701, LR: 0.000005
+Epoch [16/100], Loss: 0.2503, LR: 0.000000
+Epoch [21/100], Loss: 0.3022, LR: 0.000000
+Epoch [26/100], Loss: 0.2467, LR: 0.000000
+Epoch [31/100], Loss: 0.2494, LR: 0.000000
+Epoch [36/100], Loss: 0.2197, LR: 0.000000
+Epoch [41/100], Loss: 0.3988, LR: 0.000000
+Epoch [46/100], Loss: 0.2874, LR: 0.000000
+Epoch [51/100], Loss: 0.2821, LR: 0.000000
+Epoch [56/100], Loss: 0.1447, LR: 0.000000
+Epoch [61/100], Loss: 0.1439, LR: 0.000000
+Epoch [66/100], Loss: 0.2915, LR: 0.000000
+Epoch [71/100], Loss: 0.3305, LR: 0.000000
+Epoch [76/100], Loss: 0.1932, LR: 0.000000
+Epoch [81/100], Loss: 0.2504, LR: 0.000000
+Epoch [86/100], Loss: 0.2373, LR: 0.000000
+Epoch [91/100], Loss: 0.2446, LR: 0.000000
+Epoch [96/100], Loss: 0.3630, LR: 0.000000
+-- Fold 5/5
+Epoch [1/100], Loss: 0.1896, LR: 0.001000
+New best @epoch 1: loss=0.2348, acc=0.9047, f1=0.7921, recall=0.7565, auc=0.9222, TP=3602 FP=1014 TN=35046 FN=3055
+New best @epoch 2: loss=0.2301, acc=0.9046, f1=0.8013, recall=0.7759, auc=0.9252, TP=3920 FP=1337 TN=34723 FN=2737
+New best @epoch 3: loss=0.2290, acc=0.9063, f1=0.8015, recall=0.7718, auc=0.9259, TP=3837 FP=1183 TN=34877 FN=2820
+Epoch [6/100], Loss: 0.3137, LR: 0.000531
+Epoch [11/100], Loss: 0.1714, LR: 0.000005
+Epoch [16/100], Loss: 0.2323, LR: 0.000000
+Epoch [21/100], Loss: 0.1722, LR: 0.000000
+Epoch [26/100], Loss: 0.2196, LR: 0.000000
+Epoch [31/100], Loss: 0.2840, LR: 0.000000
+Epoch [36/100], Loss: 0.2560, LR: 0.000000
+Epoch [41/100], Loss: 0.2338, LR: 0.000000
+Epoch [46/100], Loss: 0.1908, LR: 0.000000
+Epoch [51/100], Loss: 0.1386, LR: 0.000000
+Epoch [56/100], Loss: 0.2431, LR: 0.000000
+Epoch [61/100], Loss: 0.1959, LR: 0.000000
+Epoch [66/100], Loss: 0.2100, LR: 0.000000
+Epoch [71/100], Loss: 0.1529, LR: 0.000000
+Epoch [76/100], Loss: 0.1786, LR: 0.000000
+Epoch [81/100], Loss: 0.1650, LR: 0.000000
+Epoch [86/100], Loss: 0.2603, LR: 0.000000
+Epoch [91/100], Loss: 0.3019, LR: 0.000000
+Epoch [96/100], Loss: 0.2875, LR: 0.000000
+
+=== DATASET B ===
+-- Fold 1/5
+Epoch [1/100], Loss: 0.1623, LR: 0.001000
+New best @epoch 1: loss=0.2514, acc=0.8962, f1=0.7593, recall=0.7174, auc=0.9117, TP=3017 FP=845 TN=35080 FN=3566
+New best @epoch 2: loss=0.2468, acc=0.8969, f1=0.7727, recall=0.7385, auc=0.9120, TP=3351 FP=1149 TN=34776 FN=3232
+New best @epoch 3: loss=0.2466, acc=0.8974, f1=0.7722, recall=0.7367, auc=0.9118, TP=3317 FP=1096 TN=34829 FN=3266
+Epoch [6/100], Loss: 0.2111, LR: 0.000531
+Epoch [11/100], Loss: 0.1712, LR: 0.000005
+Epoch [16/100], Loss: 0.1813, LR: 0.000000
+Epoch [21/100], Loss: 0.1605, LR: 0.000000
+Epoch [26/100], Loss: 0.2502, LR: 0.000000
+Epoch [31/100], Loss: 0.2779, LR: 0.000000
+Epoch [36/100], Loss: 0.1934, LR: 0.000000
+Epoch [41/100], Loss: 0.1900, LR: 0.000000
+Epoch [46/100], Loss: 0.2292, LR: 0.000000
+Epoch [51/100], Loss: 0.3192, LR: 0.000000
+Epoch [56/100], Loss: 0.1091, LR: 0.000000
+Epoch [61/100], Loss: 0.2973, LR: 0.000000
+Epoch [66/100], Loss: 0.1227, LR: 0.000000
+Epoch [71/100], Loss: 0.1195, LR: 0.000000
+Epoch [76/100], Loss: 0.1960, LR: 0.000000
+Epoch [81/100], Loss: 0.2095, LR: 0.000000
+Epoch [86/100], Loss: 0.2216, LR: 0.000000
+Epoch [91/100], Loss: 0.2240, LR: 0.000000
+Epoch [96/100], Loss: 0.1543, LR: 0.000000
+-- Fold 2/5
+Epoch [1/100], Loss: 0.1548, LR: 0.001000
+New best @epoch 1: loss=0.2365, acc=0.9034, f1=0.7887, recall=0.7539, auc=0.9204, TP=3539 FP=1054 TN=34836 FN=3050
+New best @epoch 2: loss=0.2358, acc=0.9019, f1=0.7849, recall=0.7499, auc=0.9214, TP=3489 FP=1066 TN=34824 FN=3100
+Epoch [6/100], Loss: 0.3511, LR: 0.000531
+Epoch [11/100], Loss: 0.2637, LR: 0.000005
+Epoch [16/100], Loss: 0.2233, LR: 0.000000
+Epoch [21/100], Loss: 0.1449, LR: 0.000000
+Epoch [26/100], Loss: 0.2192, LR: 0.000000
+Epoch [31/100], Loss: 0.1832, LR: 0.000000
+Epoch [36/100], Loss: 0.2412, LR: 0.000000
+Epoch [41/100], Loss: 0.2231, LR: 0.000000
+Epoch [46/100], Loss: 0.2552, LR: 0.000000
+Epoch [51/100], Loss: 0.3007, LR: 0.000000
+Epoch [56/100], Loss: 0.2273, LR: 0.000000
+Epoch [61/100], Loss: 0.1759, LR: 0.000000
+Epoch [66/100], Loss: 0.2009, LR: 0.000000
+Epoch [71/100], Loss: 0.3345, LR: 0.000000
+Epoch [76/100], Loss: 0.2241, LR: 0.000000
+Epoch [81/100], Loss: 0.2517, LR: 0.000000
+Epoch [86/100], Loss: 0.1997, LR: 0.000000
+Epoch [91/100], Loss: 0.2562, LR: 0.000000
+Epoch [96/100], Loss: 0.3000, LR: 0.000000
+-- Fold 3/5
+Epoch [1/100], Loss: 0.1329, LR: 0.001000
+New best @epoch 1: loss=0.2499, acc=0.8990, f1=0.7777, recall=0.7439, auc=0.9084, TP=3398 FP=1138 TN=34689 FN=3143
+New best @epoch 2: loss=0.2496, acc=0.8978, f1=0.7858, recall=0.7621, auc=0.9116, TP=3700 FP=1489 TN=34338 FN=2841
+New best @epoch 3: loss=0.2480, acc=0.8989, f1=0.7739, recall=0.7373, auc=0.9098, TP=3293 FP=1036 TN=34791 FN=3248
+Epoch [6/100], Loss: 0.2852, LR: 0.000531
+Epoch [11/100], Loss: 0.3816, LR: 0.000005
+Epoch [16/100], Loss: 0.1871, LR: 0.000000
+Epoch [21/100], Loss: 0.1532, LR: 0.000000
+Epoch [26/100], Loss: 0.2131, LR: 0.000000
+Epoch [31/100], Loss: 0.1345, LR: 0.000000
+Epoch [36/100], Loss: 0.1877, LR: 0.000000
+Epoch [41/100], Loss: 0.2087, LR: 0.000000
+Epoch [46/100], Loss: 0.1659, LR: 0.000000
+Epoch [51/100], Loss: 0.2584, LR: 0.000000
+Epoch [56/100], Loss: 0.1118, LR: 0.000000
+Epoch [61/100], Loss: 0.1026, LR: 0.000000
+Epoch [66/100], Loss: 0.1739, LR: 0.000000
+Epoch [71/100], Loss: 0.3227, LR: 0.000000
+Epoch [76/100], Loss: 0.2442, LR: 0.000000
+Epoch [81/100], Loss: 0.2125, LR: 0.000000
+Epoch [86/100], Loss: 0.3853, LR: 0.000000
+Epoch [91/100], Loss: 0.1780, LR: 0.000000
+Epoch [96/100], Loss: 0.1736, LR: 0.000000
+-- Fold 4/5
+Epoch [1/100], Loss: 0.1880, LR: 0.001000
+New best @epoch 1: loss=0.2564, acc=0.8950, f1=0.7801, recall=0.7572, auc=0.9123, TP=3643 FP=1559 TN=34270 FN=2887
+New best @epoch 2: loss=0.2554, acc=0.8948, f1=0.7767, recall=0.7512, auc=0.9149, TP=3550 FP=1477 TN=34352 FN=2980
+New best @epoch 4: loss=0.2491, acc=0.8965, f1=0.7723, recall=0.7393, auc=0.9161, TP=3344 FP=1198 TN=34631 FN=3186
+Epoch [6/100], Loss: 0.2005, LR: 0.000531
+Epoch [11/100], Loss: 0.2633, LR: 0.000005
+Epoch [16/100], Loss: 0.1128, LR: 0.000000
+Epoch [21/100], Loss: 0.2096, LR: 0.000000
+Epoch [26/100], Loss: 0.2045, LR: 0.000000
+Epoch [31/100], Loss: 0.2896, LR: 0.000000
+Epoch [36/100], Loss: 0.1769, LR: 0.000000
+Epoch [41/100], Loss: 0.3001, LR: 0.000000
+Epoch [46/100], Loss: 0.2851, LR: 0.000000
+Epoch [51/100], Loss: 0.1554, LR: 0.000000
+Epoch [56/100], Loss: 0.2295, LR: 0.000000
+Epoch [61/100], Loss: 0.2485, LR: 0.000000
